@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_location">
+
+    <fragment
+        android:id="@+id/nav_russia"
+        android:name="com.example.weatheropensource.ui.russia.RussiaFragment"
+        android:label="@string/menu_russia"
+        tools:layout="@layout/fragment_russia" />
+
+    <fragment
+        android:id="@+id/nav_location"
+        android:name="com.example.weatheropensource.ui.location.LocationFragment"
+        android:label="@string/menu_location"
+        tools:layout="@layout/fragment_location" />
+
+    <fragment
+        android:id="@+id/nav_world"
+        android:name="com.example.weatheropensource.ui.world.WorldFragment"
+        android:label="@string/menu_world"
+        tools:layout="@layout/fragment_world" />
+</navigation>

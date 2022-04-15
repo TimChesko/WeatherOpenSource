@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WeatherOpenSource</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Тут что-то будет</string>
+    <string name="nav_header_subtitle">уже скоро...</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_location">Погода по GPS</string>
+    <string name="menu_russia">Погода в РФ</string>
+    <string name="menu_world">Погода в Европе</string>
+
+    <string name="temperature_label">Температура</string>
+    <string name="feels_like_label">Ощущается как</string>
+    <string name="city_coordinates">lt/ln: %s, %s"</string>
+    <string name="error">Error</string>
+    <string name="reload">Reload</string>
+    <string name="moscow_string">Москва</string>
+    <string name="coord_lt_ln">lt/ln: 55.755826, 37.617299900000035</string>
+    <string name="def_temperature_string">+15</string>
+    <string name="def_feels_temp_string">-23</string>
+</resources>

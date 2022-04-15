@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Tima/AndroidStudioProjects/WeatherOpenSource/app/src/main/res/drawable/ic_menu_rus.xml" value="0.2035" />
+        <entry key="..\:/Users/Tima/AndroidStudioProjects/WeatherOpenSource/app/src/main/res/layout/app_bar_main.xml" value="0.46709916589434664" />
+        <entry key="..\:/Users/Tima/AndroidStudioProjects/WeatherOpenSource/app/src/main/res/layout/content_main.xml" value="0.27539503386004516" />
+        <entry key="..\:/Users/Tima/AndroidStudioProjects/WeatherOpenSource/app/src/main/res/layout/fragment_details.xml" value="0.3500717360114778" />
+        <entry key="..\:/Users/Tima/AndroidStudioProjects/WeatherOpenSource/app/src/main/res/layout/fragment_gallery.xml" value="0.48601735776277727" />
+        <entry key="..\:/Users/Tima/AndroidStudioProjects/WeatherOpenSource/app/src/main/res/layout/fragment_russia.xml" value="0.48601735776277727" />
+        <entry key="..\:/Users/Tima/AndroidStudioProjects/WeatherOpenSource/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/Tima/AndroidStudioProjects/WeatherOpenSource/app/src/main/res/layout/fragment_weather_list.xml" value="0.2542991141219385" />
+        <entry key="..\:/Users/Tima/AndroidStudioProjects/WeatherOpenSource/app/src/main/res/layout/fragment_weather_list_recycler_item.xml" value="0.35082604470359574" />
+        <entry key="..\:/Users/Tima/AndroidStudioProjects/WeatherOpenSource/app/src/main/res/layout/fragment_world.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Tima/AndroidStudioProjects/WeatherOpenSource/app/src/main/res/layout/nav_header_main.xml" value="0.5065326633165829" />
+        <entry key="..\:/Users/Tima/AndroidStudioProjects/WeatherOpenSource/app/src/main/res/menu/main.xml" value="0.7009708737864078" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
